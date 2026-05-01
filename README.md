@@ -27,7 +27,4 @@ We may update our Privacy Policy from time to time. You are advised to review th
 
 7. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
-
-TIP
-
-Pro-Tip: Most app stores require you to host this policy on a public URL. You can use services like GitHub Pages, Google Sites, or even a public Notion page to host this document for free.
+childishcolors@gmail.com
