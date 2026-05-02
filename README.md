@@ -12,7 +12,6 @@ While we do not collect data directly, the App utilizes third-party services tha
 Unity Ads: Used to provide advertisements. Unity Ads may collect data such as your device's advertising identifier (IDFA/GAID), IP address, and information about the ads you view and interact with to provide personalized advertising.
 RevenueCat: Used to manage in-app purchases and subscriptions. RevenueCat may process information related to your purchase history and subscription status (linked to your App Store or Google Play account) to ensure your "Pro" features are active.
 3. Advertising and Analytics
-Third parties may collect device information to serve personalized ads.
 The App uses Unity Ads to display advertisements. These ads help us keep the core game free to play. Unity may use tracking technologies to serve ads that are relevant to you. You can typically opt-out of personalized advertising through your device settings:
 
 iOS: Settings > Privacy > Tracking
