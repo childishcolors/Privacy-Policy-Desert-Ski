@@ -41,6 +41,6 @@ CONTACT
 
 If you have any questions about this privacy policy, please contact us at:
 
-[your-email@example.com]
+childishcolors@gmail.com
 
 This privacy policy applies to the DesertSki mobile application.
