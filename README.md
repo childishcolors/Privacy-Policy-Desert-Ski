@@ -1,30 +1,46 @@
-Privacy Policy for DesertSki
-Last Updated: May 1, 2026
+PRIVACY POLICY FOR DESERTSKI
+Last Updated: May 3, 2026
 
-This Privacy Policy describes how your personal information is handled in DesertSki (the "App"). We take your privacy seriously and do not collect any personal information directly through the App.
+OVERVIEW
 
-1. No Account Required
-We do not require you to create an account or provide any personal information (such as your name, email, or phone number) to use the App.
+DesertSki is a simple skiing game. This privacy policy explains how the app handles your information.
 
-2. Information Collected by Third Parties
-While we do not collect data directly, the App utilizes third-party services that may collect information used to identify you or your device. These services include:
+DATA COLLECTION
 
-Unity Ads: Used to provide advertisements. Unity Ads may collect data such as your device's advertising identifier (IDFA/GAID), IP address, and information about the ads you view and interact with to provide personalized advertising.
-RevenueCat: Used to manage in-app purchases and subscriptions. RevenueCat may process information related to your purchase history and subscription status (linked to your App Store or Google Play account) to ensure your "Pro" features are active.
-3. Advertising and Analytics
-The App uses Unity Ads to display advertisements. These ads help us keep the core game free to play. Unity may use tracking technologies to serve ads that are relevant to you. You can typically opt-out of personalized advertising through your device settings:
+We do not collect any personal data.
 
-iOS: Settings > Privacy > Tracking
-Android: Settings > Google > Ads > Opt out of Ads Personalization
-4. In-App Purchases
-All transactions are processed through the official App Store (Apple) or Google Play Store (Google). We do not have access to your credit card information or billing details. RevenueCat securely tracks your purchase status using an anonymous identifier linked to your store account.
+The app does not:
+- Collect, transmit, or share any personal information
+- Use any analytics, advertising, or tracking SDKs
+- Access your location, contacts, camera, or microphone
+- Require any account registration or login
+- Use cookies or similar tracking technologies
+- Connect to any external servers
 
-5. Children's Privacy
-Our App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and you are aware that your child has provided personal information to a third-party service used in our App, please contact the respective service provider or us.
+DATA STORED LOCALLY ON YOUR DEVICE
 
-6. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. Changes are effective immediately after they are posted on this page.
+The app stores the following data only on your device:
 
-7. Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
-childishcolors@gmail.com
+- High Score: your best score, saved locally so you can see your personal record the next time you open the app.
+
+This data never leaves your device and is not shared with anyone.
+
+THIRD-PARTY SERVICES
+
+The app does not integrate any third-party services, including advertising networks, analytics platforms, social media SDKs, or cloud storage services.
+
+CHILDREN'S PRIVACY
+
+The app is safe for users of all ages. Since we collect no data whatsoever, the app is fully compliant with COPPA (Children's Online Privacy Protection Act) and similar regulations.
+
+CHANGES TO THIS POLICY
+
+If the app's data practices change in a future update, this policy will be updated accordingly.
+
+CONTACT
+
+If you have any questions about this privacy policy, please contact us at:
+
+[your-email@example.com]
+
+This privacy policy applies to the DesertSki mobile application.
